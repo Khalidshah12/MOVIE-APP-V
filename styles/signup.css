@@ -1,0 +1,67 @@
+* {
+    font-family: sans-serif;
+}
+
+#signup-form-div {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 25%;
+    margin: auto;
+    margin-top: 100px;
+    padding-bottom: 30px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+input:nth-child(1) {
+    height: 30px;
+
+    display: block;
+    margin: auto;
+    width: 70%;
+    margin-top: 15px;
+}
+
+input:nth-child(2) {
+    height: 30px;
+
+    display: block;
+    margin: auto;
+    width: 70%;
+    margin-top: 15px;
+}
+
+input:nth-child(3) {
+    height: 30px;
+
+    display: block;
+    margin: auto;
+    width: 70%;
+    margin-top: 15px;
+}
+
+input:nth-child(4) {
+    height: 30px;
+
+    display: block;
+    margin: auto;
+    width: 70%;
+    margin-top: 15px;
+}
+
+input:nth-child(5) {
+    width: 35%;
+    height: 30px;
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    background-color: teal;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
